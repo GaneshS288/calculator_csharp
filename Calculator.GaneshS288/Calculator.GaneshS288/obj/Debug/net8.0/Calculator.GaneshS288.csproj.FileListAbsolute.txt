@@ -1,0 +1,15 @@
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\bin\Debug\net8.0\Calculator.GaneshS288.exe
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\bin\Debug\net8.0\Calculator.GaneshS288.deps.json
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\bin\Debug\net8.0\Calculator.GaneshS288.runtimeconfig.json
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\bin\Debug\net8.0\Calculator.GaneshS288.dll
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\bin\Debug\net8.0\Calculator.GaneshS288.pdb
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\Calculator.GaneshS288.GeneratedMSBuildEditorConfig.editorconfig
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\Calculator.GaneshS288.AssemblyInfoInputs.cache
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\Calculator.GaneshS288.AssemblyInfo.cs
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\Calculator.GaneshS288.csproj.CoreCompileInputs.cache
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\Calculator.GaneshS288.sourcelink.json
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\Calculator.GaneshS288.dll
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\refint\Calculator.GaneshS288.dll
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\Calculator.GaneshS288.pdb
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\Calculator.GaneshS288.genruntimeconfig.cache
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\ref\Calculator.GaneshS288.dll
