@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         bool endApp = false;
+        int timesUsed = 0;
 
         // Display title as the C# console calculator app.
         Console.WriteLine("Console Calculator in C#\r");
@@ -42,6 +43,7 @@ class Program
             }
 
             // Ask the user to choose an operator.
+            Console.WriteLine($"Calculator use count: {timesUsed}");
             Console.WriteLine("Choose an operator from the following list:");
             Console.WriteLine("\ta - Add");
             Console.WriteLine("\ts - Subtract");
@@ -58,7 +60,9 @@ class Program
                 {
                     Console.WriteLine("This operation will result in a mathematical error.\n");
                 }
-                else Console.WriteLine("Your result: {0:0.##}\n", result);
+                else
+                    Console.WriteLine("Your result: {0:0.##}\n", result);
+                    timesUsed++;
             }
             catch (Exception e)
             {

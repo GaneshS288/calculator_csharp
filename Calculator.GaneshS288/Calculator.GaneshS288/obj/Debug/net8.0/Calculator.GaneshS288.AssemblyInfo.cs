@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculator.GaneshS288")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57a92b27ffb6b6b046802df2a8ca2d5a22e0e39f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+507d255c21d7561921e36e8cae1246c60b43ed69")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculator.GaneshS288")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculator.GaneshS288")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
