@@ -13,3 +13,8 @@ D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\o
 D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\Calculator.GaneshS288.pdb
 D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\Calculator.GaneshS288.genruntimeconfig.cache
 D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\ref\Calculator.GaneshS288.dll
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\bin\Debug\net8.0\CalculatorLibrary.dll
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\bin\Debug\net8.0\CalculatorLibrary.pdb
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\Calculator.GaneshS288.csproj.AssemblyReference.cache
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\obj\Debug\net8.0\Calculat.69FE0577.Up2Date
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\Calculator.GaneshS288\bin\Debug\net8.0\Newtonsoft.Json.dll

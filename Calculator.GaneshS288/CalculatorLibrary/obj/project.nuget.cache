@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YoGPAofhdEJE2497GSNZH6HBrSu0oyIB8ejOWIFS2s0www6zrJ00fsoBrNid3Alm9Acs3l90YKjsJOFqfQ2fzg==",
+  "success": true,
+  "projectFilePath": "D:\\GaneshCode\\C#\\calculator_csharp\\Calculator.GaneshS288\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

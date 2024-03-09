@@ -1,0 +1,13 @@
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.sourcelink.json
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
+D:\GaneshCode\C#\calculator_csharp\Calculator.GaneshS288\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.AssemblyReference.cache

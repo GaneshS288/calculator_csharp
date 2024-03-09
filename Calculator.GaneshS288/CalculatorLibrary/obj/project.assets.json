@@ -14,19 +14,6 @@
             "related": ".xml"
           }
         }
-      },
-      "CalculatorLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3"
-        },
-        "compile": {
-          "bin/placeholder/CalculatorLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CalculatorLibrary.dll": {}
-        }
       }
     }
   },
@@ -60,16 +47,11 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
-    },
-    "CalculatorLibrary/1.0.0": {
-      "type": "project",
-      "path": "../CalculatorLibrary/CalculatorLibrary.csproj",
-      "msbuildProject": "../CalculatorLibrary/CalculatorLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "CalculatorLibrary >= 1.0.0"
+      "Newtonsoft.Json >= 13.0.3"
     ]
   },
   "packageFolders": {
@@ -78,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GaneshCode\\C#\\calculator_csharp\\Calculator.GaneshS288\\Calculator.GaneshS288\\Calculator.GaneshS288.csproj",
-      "projectName": "Calculator.GaneshS288",
-      "projectPath": "D:\\GaneshCode\\C#\\calculator_csharp\\Calculator.GaneshS288\\Calculator.GaneshS288\\Calculator.GaneshS288.csproj",
+      "projectUniqueName": "D:\\GaneshCode\\C#\\calculator_csharp\\Calculator.GaneshS288\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectName": "CalculatorLibrary",
+      "projectPath": "D:\\GaneshCode\\C#\\calculator_csharp\\Calculator.GaneshS288\\CalculatorLibrary\\CalculatorLibrary.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "D:\\GaneshCode\\C#\\calculator_csharp\\Calculator.GaneshS288\\Calculator.GaneshS288\\obj\\",
+      "outputPath": "D:\\GaneshCode\\C#\\calculator_csharp\\Calculator.GaneshS288\\CalculatorLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,11 +80,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "D:\\GaneshCode\\C#\\calculator_csharp\\Calculator.GaneshS288\\CalculatorLibrary\\CalculatorLibrary.csproj": {
-              "projectPath": "D:\\GaneshCode\\C#\\calculator_csharp\\Calculator.GaneshS288\\CalculatorLibrary\\CalculatorLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -119,6 +97,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

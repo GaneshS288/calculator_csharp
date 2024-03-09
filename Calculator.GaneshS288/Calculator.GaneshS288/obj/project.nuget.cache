@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "i2XsonbGL2YN9bfBwQTaQazbu2IfSYYZdEtN4bQaofehwh0uSPuN7kpaA2sdjKQPAvMjceQIS+Xe/ihKWpOySQ==",
+  "dgSpecHash": "+yxHe6evx7kpf72Ff7Vwx71D0hUBhga6i1ddNtr0eFwzPmpkbqSp+Z0uL/bShs4aFwaahdZglKC1rh9ywK0Kpw==",
   "success": true,
   "projectFilePath": "D:\\GaneshCode\\C#\\calculator_csharp\\Calculator.GaneshS288\\Calculator.GaneshS288\\Calculator.GaneshS288.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
